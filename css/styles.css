@@ -1,0 +1,25 @@
+.big {
+    font-size: 100px;
+}
+
+.medium {
+    font-size: 160px;
+}
+
+span {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* display: block; */
+}
+
+body {
+    background-color: lightgreen;
+    padding: 100px;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#penis {
+    color: rgb(32, 37, 82);
+}
